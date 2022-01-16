@@ -1,12 +1,18 @@
-# Online studying backend
+## Installation
 
-## Приложение для онлайн-курсов.
+```bash
+$ npm install
+```
 
-Деплой: 
+## Running the app
 
-## Используемые технологии:
+```bash
+# development
+$ npm run start
 
-JS, TS, Node.js, Nest.js, MongoDB.
+# watch mode
+$ npm run start:dev
 
-## Функционал
-CRUD операции с массивом cards.
+# production mode
+$ npm run start:prod
+```
